@@ -1,0 +1,22 @@
+.form-group{
+    width: 50vw;
+    padding-left: 25vw;
+    margin-top: 0.5vw;
+    margin-bottom: 0.5vw;
+}
+
+.btn-outline-primary{
+    margin-top: 2vw;
+    margin-left: 25vw;
+    margin-right: auto;
+    width: 25vw;
+}
+
+.row{
+    width: 56.8vw;
+    padding-left: 25vw;
+}
+
+.control{
+    padding-top: 10vw;
+}

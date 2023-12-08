@@ -1,0 +1,33 @@
+.gradient-background{
+    background: #fff;
+}
+
+.borders{
+    display: flex;
+    padding: 1.5vw;
+    background: white;
+    margin-top: 2vh;
+    border-radius: 0.5rem;
+    min-height: 77vh;
+    max-height: 77vh;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80vw;
+}
+
+.mybody{
+    background: linear-gradient(90deg, rgba(0,212,255,1) 0%,
+    rgba(199,97,116,1) 25%, rgba(194,13,159,1)
+    50%, rgba(97,207,188,1) 75%, rgba(0,212,255,1) 100%);
+}
+
+.footer{
+    padding: 1vw;
+    margin-top: 2vh;
+    width: 80vw;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10vw;
+    height: 4vw;
+    background: rgba(255,255,255, 0.5);
+}
